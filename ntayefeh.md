@@ -1,0 +1,3 @@
+netid: ntayefeh
+github: NimsTay
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICDrbR1okKfOV1dbf/CLAY3pAPEnHVvUEf57RnyfxA6S nimatay22@gmail.com
