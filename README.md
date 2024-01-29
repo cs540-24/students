@@ -1,9 +1,11 @@
-netid: smoparth
+netid: mhe8
 
-ghid: ShivMoparthy
+ghid: mengling-he
 
-ssh:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMryQuuslsBBRRZzkRvSrYGx23n+KpiFfynwYi7P1Pi6 shivajimoparthy0707@gmail.com
+ssh: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMrGv6Ud3dgu+K7Cx1Ly8LtWb6pOMZ2hvp/8UL25uxfz to2niki@hotmail.com
 
-I am Shivaji Moparthy, a first year Master's student in Computer Science.
-I like developing web applications and working on data analysis projects.
-I am interested in taking this course as I want to gain insights on Advanced Software Engineering Techniques.
+
+I'm Mengling He, and I am a first year Ph.D. student majored in Data Science and Engineering. 
+I have a master's degree of  Statistics, my previous background is mostly data and statistics, so I choose this course to gain knowledge about software engineering.
+My coding is not as good as other C.S. students since I had a hard time last semester in the Machine Learning class, but I learnt it hard and got a good results.
+I hope in this class we don't need to do too many big projects, but can learn the pipeline through the projects.
