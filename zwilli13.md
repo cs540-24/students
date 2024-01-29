@@ -1,0 +1,8 @@
+netid: zwilli13
+
+ghid: ZPWilliams
+
+ssh:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4YJiXfcIoHshp7P6SpWx7+iaj3CpprOlP7LnVKPt0bB4YixaTz67cgtBixqWN9AmIHcii7zbLlQipMVTF84XFqkn5/mdF4dNv8lAC/b8ONg9aes6qR19cbbYANnAPj8Lp++qWEXdBlkoP5djEuB0DWGelwWqIjwruaI7c1S8R+hUkvGaLwg5eTI2RwqmEk8lfZQfsefgJlhyhpS1m3F4VDRi8nDhs2Xx6Tx0KFzhVufRM9MbSPptjuUdrsJKvU9DhZ/cpVUArnyfsB6WVSMg8m0NMm53WrQaGrp/etXF/iuoMkTn97tWrKGKgsf65+RHdq0jYgAtbyMuXtbVlzzKYWMiTQtxvmvMs2F6pxZQSbCcSP1Xe3PcbagtUQnLqmpIsJcQk9niS5JTMxLXdOP1ATZR4NcwfCjbOmjRsMr3z+XfQLMKM5CEzwYUoPb7VjlFln882Lge0oy0k0h1KDS0gwl131xS6EKr8KXWVolS/ES8GHrTRIR0Q67joh+GB3jM= Zach@LAPTOP-IQCQJDJU
+
+
+I am Zach Williams and I am studying computer engineering. I will graduate with my master's this spring. I enjoy hiking, philosophy, and hanging out with my dog.
