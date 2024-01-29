@@ -1,11 +1,5 @@
-netid: mhe8
+Netid: mtiwari
+GitHub: manasIO
+ssh: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEk5qu2YlBoUhFphjPe1cVyV9brTea4KaXdCTQwo2Ia5 tiwarimanas27@gmail.com
 
-ghid: mengling-he
-
-ssh: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMrGv6Ud3dgu+K7Cx1Ly8LtWb6pOMZ2hvp/8UL25uxfz to2niki@hotmail.com
-
-
-I'm Mengling He, and I am a first year Ph.D. student majored in Data Science and Engineering. 
-I have a master's degree of  Statistics, my previous background is mostly data and statistics, so I choose this course to gain knowledge about software engineering.
-My coding is not as good as other C.S. students since I had a hard time last semester in the Machine Learning class, but I learnt it hard and got a good results.
-I hope in this class we don't need to do too many big projects, but can learn the pipeline through the projects.
+Hi, I am Manas Tiwari pursuing my Masters in Computer Science. I am very excited about this Software Engineering course as I have worked previously on a couple of Machine learning project, and I'm also interested in data science. Hence, I think having this course under my belt will add layers to my knowledge. I look forward toward completing this class successfully.
