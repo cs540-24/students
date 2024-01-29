@@ -1,0 +1,7 @@
+netid: jfiller4
+
+ghid: HomeworkThomas
+
+ssh:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQmZr2JKnaLAClWmvUB95mlXgmcq3OzoRUsF2xURCx6lC3XtMDY2KVw31sovCLI9+M47hKOzjtZnHXa4kOTo4rEgZp6ZmujWCrwAmN6KUzZ7vYYXUVNND9/82NNoTetK9QvijMRXCv1ro/9dROfvCQU47I5Jwm8K9xn6YHc1F5MwCnm9DXHGYdpVPcxGY1Fkb0SqGDCdyYyqfx0H3JhIMeKrgBavv1x2W8+8HXjdecADX//lhesdQMhDqDSZPkQl3gbikv2ueuTUXzGL8iTvV2VNKO7HgNIMYCbHJ1RPdxCbRuD3lH08ITopCUOQfc3TSAFDUuWpF2RjAGekmHYlpmVUzUuyDav+FbqJzWQA6/urCIXrP9QJI6yOMNji9mo06kCDWnygXOQhfQM8AapyV/ZS7Jus3KSh64PQsGkz6vg6m3b2y1NuUsADXNKNSYkGXn3m72ScWNk/SEqyD0Gnpn0gpzeMRG4iPPsmDZiPjAHwd2sVy8+g7ywD/i3ttpIsM= homew@DESKTOP-3FFB6LD
+
+My name is Thomas Fillers and I am currently a Master's student here for computer engineering. My interests are primarily in high-performance computing and ML. I am taking this course to help develop my knowledge and understanding of the intricacies of software design/development.

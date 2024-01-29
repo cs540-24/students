@@ -1,0 +1,7 @@
+netid: lmccombs
+
+ghid: lukepmccombs
+
+ssh: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCNUP00XXQl2fNYV6kmLtjN5RFQWNCrN7snfrW+rlupymELOfDJrAeMKAMMqiPY+19GE2UhJ1T51+zxlBFxxbouA7cE9B2B+wpaeZ5SgNxamKKAk7XQdbDvmMMJtbbx+fwl5bTLzAC2Hs9BwmABT6KXBK/QWruS1LZXN6lHqk65aYzL/RA/q8TlDBQiBsPiYMgsde1OQVGfnYt2LJXmXwANLPtAMxCUw52+25mr9R+DQN5kSZ0++6e7Mekda9epETRtj9AqMl03Oyh3PY8Q1OLDcqmtYBtqRMHp0QNxY+U9iLYXVm2CFWc4hsosnC4B7NbblHM9478vA5dwrZGGKi7Da0PIqiiaZRV2MxcEO971aYxWt+NRq34mSegccW72k0xCMmRjwkEgDjsu3uwx4xzScVsz7kTCCEFcCL4tTLIp6RLk46/W/SvFyiyScrwTsGswaxnOBB7ps2F5gLzV0W64WIz6im/xTF3YdGZRvy2mW2kPUG5oN5D1nP+Aq7BF0G0= lmccombs@luke-razer
+
+My name is Luke McCombs and I am a Computer Science Master's student researching evolutionary algorithms for training neuromorphic systems at the TENNLab. I'm taking this class because I wanted to get better at creating larger programs, and this seemed a good way to improve my software development skills on a high level.

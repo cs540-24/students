@@ -1,0 +1,7 @@
+netid: npatel79
+
+ghid: napatel79
+
+ssh:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDINcslbkKin+SpOGUKXV9JocJx086ERv4azZ9Dw0HTpkQ99qxo1vs5hfrcnb8VmzzKo9sVThbyDvPvlajJqTgkYU33BT+mNd+89FRrrNVi6P1MWUVc3bdBuAvt5An1hX/v1vgukNR6B5uhYlG0J1fMWg4plhH0n8+VTrnr9Ddr11vz+rQJulzJOYqYLTj39r4vQD5vf+jEpYU2joM7LsOjMmS2VSGtpcsg0GK3YUCoGkkbe6ATurzeGF04Cgx2bEHbxd5ifGx6enBcluha7aXTsE1wQVk+gjACGhDPul06BMuAHoWAFYMTwOrET63FaRwBSN59ZlsHpolIDo6KptFttUNOLBfTNn7Mq/OwzEmjed0R4cUnHC00KRydQj6f3WQwKdY+eK/l70BhzVRIBhurEuql8YYzEf98g/hVQGcxjjgulbuWAyz9663MahwErh3FtTViIyLUd0SHSZXUpzmDhK2ZX6fd980xM09BeFEJlnbzWe7Vs8hATcsiDvGo59k= nehpatel@Nehs-MacBook-Pro.local
+
+I am Neh Patel, I am a Masters student at UTK. I am getting the class based masters program. I am interested in machine learning, web developement and software security. 
