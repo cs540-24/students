@@ -1,5 +1,7 @@
 netid:straore1
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINViSt729/poZo0PIcWETgT0poMtt84eUrrgdCSjjKYb straore1@vols.utk.edu
+
 ghid:Sekou2077
 
 My name is Sekou Traore and I am a first year course-only Masters student in Computer Science.
