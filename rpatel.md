@@ -1,5 +1,5 @@
 net id :rpate139 
-gubid:richricha93 
+ghid:richricha93 
 SHA256:Z4B4yBgsfVtlo75eZ4ivR9nTsX3EvG5xIMeEY/STFsE RichRicha2022@gmail.com
 
 My name is Richa Patel.I completed my Computer Science graduation in 2015, and since then, I have had minimal interaction with technology. 
